@@ -160,4 +160,7 @@ npm start
 
 * **Deissy Coral** - *Technical Test by Zemoga* - [deissysita](https://github.com/deissysita)
 
+## Tiempo invertido
+20 horas
+
 ---
